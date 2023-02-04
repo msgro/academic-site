@@ -1,7 +1,9 @@
 ---
 title: "Max Sgro"
 subtitle: "Ph.D. Student at the University of Washington"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+description: "Student in the Health Systems Research Ph.D. progam at UW focusing on 
+health economics and health policy research that leads to measurable improvements 
+in the health of the local community."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
